@@ -18,6 +18,8 @@ A framework for tracking AI large language model (LLM) foundational models, fine
 * [LLM-Leaderboard](https://llm-leaderboard.streamlit.app/)
 * [Gotzmann LLM Score v2](https://docs.google.com/spreadsheets/d/1ikqqIaptv2P4_15Ytzro46YysCldKY7Ub2wcX5H1jCQ/edit#gid=0) ([discussion](https://www.reddit.com/r/LocalLLaMA/comments/13wvd0j/llm_score_v2_modern_models_tested_by_human/))
 * [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub)
+* [C-Eval Leaderboard](https://cevalbenchmark.com/static/leaderboard.html)
+* [llm-humaneval-benchmarks](https://github.com/my-other-github-account/llm-humaneval-benchmarks) - HuggingFace models evald vs HumanEval+
 
 
 # Roadmap
