@@ -11,6 +11,7 @@ A framework for tracking AI large language model (LLM) foundational models, fine
 * [CRFM Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/)
 * [Open LLMs](https://crfm.stanford.edu/ecosystem-graphs/)
 * [Viktor Garske's AI / ML / LLM / Transformer Models Timeline and List](https://ai.v-gar.de/ml/transformer/timeline/)
+* [awesome-marketing-datascience Open LLM Models List](https://github.com/underlines/awesome-marketing-datascience/blob/master/llm-model-list.md)
 
 ## Evals
 * [HuggingFace Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
@@ -27,7 +28,7 @@ A framework for tracking AI large language model (LLM) foundational models, fine
 * [HELM Core Scenarios](https://crfm.stanford.edu/helm/latest/?group=core_scenarios)
 * [TextSynth Server](https://bellard.org/ts_server/)
 * [airate](https://github.com/catid/supercharger/tree/main/airate) - C++ bug catching test
-
+* [llm-jeopardy](https://github.com/aigoopy/llm-jeopardy) - automated quiz show answering
 
 # Roadmap
 Single open, comprehensive repository that is a superset of existing lists, and that allows for low friction submissions, updates, collaboration.
